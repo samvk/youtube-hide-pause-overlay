@@ -1,8 +1,8 @@
 {
-  "name": "YouTube hide pause overlay",
+  "name": "Hide Pause Overlay for YouTube™",
   "manifest_version": 2,
-  "version": "1.0.1",
-  "description": "No more annoying overlay every time you pause an embedded YouTube video.",
+  "version": "1.0.2",
+  "description": "No more annoying overlay every time you pause an embedded YouTube™ video.",
   "author": "Sam Kauffman (SamVK)",
   "icons": {
       "16": "img/icon/icon-16.png",
